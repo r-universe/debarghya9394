@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LogisticCurveFitting"]
 	path = LogisticCurveFitting
 	url = https://github.com/cran/LogisticCurveFitting
-	shallow = true
-	registered = true
 [submodule "MissingPlotLSD"]
 	path = MissingPlotLSD
 	url = https://github.com/cran/MissingPlotLSD
-	shallow = true
-	registered = true
